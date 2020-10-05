@@ -115,4 +115,4 @@ def get_tweets(screen_names):
                        'friends':a_friends, 'no_tweets':a_tweet_count, 'followers':a_followers, 'location':a_location, 
                        'text':a_texts, 'favourite_count':a_favs, 'created_at':a_created_at, 'verified':a_verified, 
                        'retweet_count':a_retweets,'entities':a_entities, 'lang':a_languages,'hashtag':a_hashtag})
-    return df 
+    return df
