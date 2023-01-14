@@ -19,15 +19,15 @@ Tasks:
 * Untitled0.ipynb  - The master notebook that contains all sorts of analysis done right from data preperocessing, EDA, time series analysis, LDA ...
 [NB viewer- its a big notebook](https://nbviewer.jupyter.org/github/ada-k/ImpactofCovid19_AirQuality/blob/40be4ebc990eeb8be344de42a024b63b50bb6d4c/modeling%20kernels/Untitled0.ipynb)
 
-`scraping kernels`contains the following notebook:
+`scraping kernels` contains the following notebook:
 
 * crawler_tweets.ipynb  - Kernel responsible for tweets scraping.
 
 * scrap_tweeps.ipynb  - Kernel responsible for tweeps scraping. (Using geeotags and hashtag filters.)
 
-`licence`License template
+`licence` License template
 
-`readme`Markdown file giving a brief description of the project and its structure.
+`readme` Markdown file giving a brief description of the project and its structure.
 
 `Covid Impact On Air Quality Rough Document.pdf` First report. May have some corrections to be made.
 
