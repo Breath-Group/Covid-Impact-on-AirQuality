@@ -30,10 +30,3 @@ Tasks:
 `readme` Markdown file giving a brief description of the project and its structure.
 
 `Covid Impact On Air Quality Rough Document.pdf` First report. May have some corrections to be made.
-
-**PS** This project was done in a group of 5:
-* Ada Kibet
-* Haddy Adnan
-* Brian Odhiambo
-* Negash Hailu
-* Amure Ridwan
