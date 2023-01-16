@@ -29,4 +29,6 @@ Tasks:
 
 `readme` Markdown file giving a brief description of the project and its structure.
 
-`Covid Impact On Air Quality Rough Document.pdf` First report. May have some corrections to be made.
+`Covid Impact On Air Quality Rough Document.pdf` First report. May have some corrections to be made. [Link to Markdown version](/report/Covid%20Impact%20On%20Air%20Quality%20Rough%20Document.md)
+
+`report` Contains the markdown format and the assets of the Document
